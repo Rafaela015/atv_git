@@ -11,6 +11,7 @@ senha: 123456
 user: Fabia
 senha: 123456
 
+<<<<<<< HEAD
 user: Lise
 senha: 123456
 
@@ -21,4 +22,16 @@ user: Maju
 senha: 123456
 
 user: Nick
+=======
+user: Ademir
+senha: 123456
+
+user: Jana
+senha: 123456
+
+user: Joana
+senha: 123456
+
+user: Bruno
+>>>>>>> requisitox
 senha: 123456
